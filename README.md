@@ -7,4 +7,4 @@
 1. `brew tap AntonioMeireles/authgovpt`
 2. `brew install authgovpt`
 
-N.A. Testado sobre o MacOS Ventura (13.0) em plataforma Intel.
+N.A. Testado sobre o MacOS Sonoma (14.x) em plataforma Intel.
